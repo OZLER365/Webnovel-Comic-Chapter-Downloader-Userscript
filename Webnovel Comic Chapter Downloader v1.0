@@ -6,7 +6,7 @@
     // @version      1.0
     // @description  Downloads chapter images from Webnovel by intercepting the getContent API.
     // @author       ozler365
-    // @license      MIT
+    // @license      GPL-3.0-only
     // @match        https://www.webnovel.com/comic/*
     // @icon         https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/e4/53/82e453f3-7569-7fc1-05d1-ea20871c2241/Placeholder.mill/400x400bb-75.webp
     // @grant        GM_xmlhttpRequest
